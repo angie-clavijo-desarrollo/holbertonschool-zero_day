@@ -1,4 +1,4 @@
-#0x01. Emacs
+# 0x01. Emacs
 
 0. Opening
 1. Saving
